@@ -13,6 +13,7 @@ Welcome to our project repository!
     finished my associates degree this spring and im excited to get my batchelors this upcoming
     spring semester!
 - Caiden Herbert
+Hi my name is Caiden, I am excited to work on this project. I enjoy playing music.
 - Matthew Hughes
   - I am currently a senior at Weber State studying computer science. My favorite programming language is Python but I like working with any language to solve some sort of problem. I really like breakfast foods
 - Raleigh Church
