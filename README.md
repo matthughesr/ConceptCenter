@@ -11,9 +11,6 @@ Welcome to our project repository!
 - Caiden Herbert
 - Matthew Hughes
 - Raleigh Church
+- Hello my name is Raleigh, I like bouldering and coding. I look forward to working with everyone!
 - Member 5
 - Member 6
-
-
-Raleigh Church:
-Hello my name is Raleigh, I like bouldering and coding. I look forward to working with everyone!
